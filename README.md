@@ -1,16 +1,10 @@
 # theme_example_flutter
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project contains code example how to define custom light & dark theme in a flutter application
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="383" alt="Light" src="https://user-images.githubusercontent.com/74094936/209470628-7fd9c08d-4555-4819-b727-53ce45a56877.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="408" alt="Dark" src="https://user-images.githubusercontent.com/74094936/209470637-080a20e8-3307-4bb4-8f4f-0c15634096c4.png">
